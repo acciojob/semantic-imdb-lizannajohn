@@ -1,2 +1,39 @@
-
 /* Your CSS Code here. */
+*
+{
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a
+{
+    color: crimson;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color:black;
+}
+
+#nav-actor, #nav-quotes
+{
+    padding-left: 5px;
+}
+
+.summ-div
+{
+    margin-right: 25px;
+}
+
+#sumtext, #actors
+{
+    text-align: justify;
+    margin-left: 3px;
+}
+
+li
+{
+    text-align: justify;
+    margin-left: 0px;
+}
